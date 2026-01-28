@@ -286,3 +286,4 @@ def cons_smacof(
         return best_pos, best_stress
 
 
+
