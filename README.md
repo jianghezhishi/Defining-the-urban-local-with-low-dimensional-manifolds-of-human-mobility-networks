@@ -5,7 +5,7 @@ Here is a brief guide to the directory structure and its contents:
 * `hm_as_manifold_v4`: This file contains the core code for the empirical analysis and manifold embedding described in the study.
 * `_cons_smacof`: This module must be inserted into the `scikit-learn\manifold` library to enable the embedding functionality.
 * `loc_manifold`: This file contains the code for the facility location analysis on the human mobility manifolds.
-* `loc_uniformity_v1`: This file contains the code for the uniformity analysis of facility location. It should be run with python 3.12.
+* `loc_uniformity_v1`: This file contains the code for the uniformity analysis of facility locations. It should be run with python 3.12.
 ## Citing
 
 ### Bibtex
